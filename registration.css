@@ -1,0 +1,72 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(26, 141, 170);
+}
+.reg{
+    width:350px; height: 550px;
+    margin: auto; margin-top: 50px;
+    background-color: aliceblue;
+}
+.login-box{
+    width:350px;height: 600px;
+    margin: auto; margin-top: 20px;
+    background-color: aliceblue;
+}
+.login-box h1{
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+form{
+    width: 300px; margin-left: 20px;
+    font-size: 18px;
+}
+form label{
+    width: 300px; margin-top: 5px;
+    font-size: 18px;
+}
+form p{ 
+    font-size: 15px;
+   text-align: center;
+}
+                /* login*/
+.logo{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 200px;
+    background-color:white;
+    border-radius: 5px;
+}
+.logo h1{
+    text-align: center;
+    margin-bottom: 3px;
+}
+.logo lable{
+    font-size: 20px;
+    margin-left: 35px;
+}
+.logo input{
+    margin-top: 8px;
+    width: 200px;
+    height: 30px;
+    border: 3px solid gray;
+    margin-left: 35px;
+}
+.field button{
+    color: #fff;
+    background-color: #08bb5c;
+    transition: all 0.3s ease;
+    border-radius: 12px;
+    border-color: #08bb5c;
+    width: 100px;
+    height: 20px;
+}
+.logo p{
+    margin-top: 10px;
+    text-align: center;
+}
+.abc p{
+    text-align: center;
+}
